@@ -1,4 +1,4 @@
-# 🧪 TestNG + Maven Project (DevOps Case Study)
+# 🧪 TestNG + Maven Project (DevOps Lab Case Study)
 
 This repository demonstrates how to use **TestNG** with **Maven** and **GitHub Actions CI**.  
 It is part of a DevOps case study project showing how automated testing fits into modern pipelines.
