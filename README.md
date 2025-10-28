@@ -7,7 +7,7 @@ It is part of a DevOps case study project showing how automated testing fits int
 
 ## 🚀 Quick Start
 
-1. Clone Repo
+1. Clone Repo, using gitbash
 git clone https://github.com/YOUR_USERNAME/testng-maven-repo.git
 cd testng-maven-repo
 
